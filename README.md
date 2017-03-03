@@ -1,6 +1,6 @@
 #**Lane Departure Warning System for Autonomous Driving** 
 
-##Objective
+###Objective
 
 ####A demo of Lane Departure Warning System: a monocular camera is used for detecting current lane, tracking the vehicle position and estimating the front road status. 
 
@@ -69,6 +69,7 @@ python calibration.py
 #### 4. Lane augmentation
 * Warp the detected lane boundaries back onto the original image.
 * Print the road status into image
+
 ---
 
 ###Camera Calibration
@@ -199,6 +200,7 @@ but it may fail with vairous of hard scenarios. In the future, we could consider
 * Adopt machine learning techniques.
 
 ![][image-hard_case]
+
 Reference: [1] [Recent Progress in Road and Lane Detection - A survey](https://pdfs.semanticscholar.org/223c/087455c1adc23562d5ea2ebe47cd077feb68.pdf)
 
 
