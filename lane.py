@@ -573,7 +573,7 @@ def detector(binary_sub, ploty, visualization=False):
 
 
 
-def process_frame(img, visualization=True):
+def process_frame(img, visualization=False):
 
     start = timer()
     # resize the input image according to scale
