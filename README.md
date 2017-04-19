@@ -188,6 +188,20 @@ warn the driver by changing the color from **green** to **red** (see function `c
 #### [Video 2]( https://youtu.be/3-CMwxaScEo)
 
 
+### Release History
+
+* 0.1.2
+    * Update the README.md
+    * Date 19 Apirl 2017
+
+* 0.1.1
+    * Edit the visulization flag in lane.py
+    * Date 3 March 2017
+
+* 0.1.0
+    * The first proper release
+    * Date 3 March 2017
+   
 ---
 
 ### Discussion
