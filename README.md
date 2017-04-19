@@ -52,6 +52,21 @@ If you want to use the code to calibration your own camera and test the video, s
 ```sh
 python calibration.py
 ```
+
+#### 4. Release History
+
+* 0.1.2
+    * Update the README.md
+    * Date 19 April 2017
+
+* 0.1.1
+    * Edit the visulization flag in lane.py
+    * Date 3 March 2017
+
+* 0.1.0
+    * The first proper release
+    * Date 3 March 2017
+    
 ---
 
 ### **Steps**
@@ -186,21 +201,6 @@ warn the driver by changing the color from **green** to **red** (see function `c
 
 #### 2. Driving through confusing lanes areas
 #### [Video 2]( https://youtu.be/3-CMwxaScEo)
-
-
-### Release History
-
-* 0.1.2
-    * Update the README.md
-    * Date 19 Apirl 2017
-
-* 0.1.1
-    * Edit the visulization flag in lane.py
-    * Date 3 March 2017
-
-* 0.1.0
-    * The first proper release
-    * Date 3 March 2017
    
 ---
 
