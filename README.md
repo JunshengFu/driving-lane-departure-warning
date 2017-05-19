@@ -4,7 +4,7 @@
 
 #### A demo of Lane Departure Warning System: a monocular camera is used for detecting current lane, tracking the vehicle position and estimating the front road status. 
 
-#### [**Video demo**](https://youtu.be/fqQFVK4ZxoQ) 
+#### [**Video demo**](https://youtu.be/fqQFVK4ZxoQ) (Click to see the full video)
 
 [![gif_demo][gif1]](https://youtu.be/fqQFVK4ZxoQ)
 
