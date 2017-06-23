@@ -29,6 +29,9 @@
 ### Code & Files
 
 #### 1. My project includes the following files
+(Note: the hyperlinks **only** works if you are on the homepage of this GitHub reop,
+and if you are viewing it in "github.io" you can be redirected by clicking the **View the Project on GitHub** on the top)
+
 * [calibration.py](calibration.py) contains the script to calibrate camera and save the calibration results
 * [main.py](main.py) is the main code for 2 demos
 * [lane.py](model.h5) contains the lane class 
