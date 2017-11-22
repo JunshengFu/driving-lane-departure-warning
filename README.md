@@ -37,6 +37,7 @@ and if you are viewing it in "github.io" you can be redirected by clicking the *
 * [lane.py](model.h5) contains the lane class 
 * [camera_cal](camera_cal) folder contains the images used for camera calibration and calibration results 
 * [examples](examples) folder contains the sample images and videos
+* [environment-gpu.yml](environment-gpu.yml) environment file with GPU 
 * [README.md](README.md) summarizing the results
 
 #### 2. Dependencies & my environment
@@ -44,6 +45,7 @@ and if you are viewing it in "github.io" you can be redirected by clicking the *
 Anaconda is used for managing my [**dependencies**](https://github.com/udacity/CarND-Term1-Starter-Kit).
 
 * OpenCV3, Python3.5 
+* you can use provided [environment file with GPU](environment-gpu.yml) to install the dependencies.
 * OS: Ubuntu 16.04 (should work on other platform too)
 
 #### 3. How to run the code
